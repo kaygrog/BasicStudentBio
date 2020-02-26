@@ -48,5 +48,13 @@ p, ul {
 p {
     margin: 0;
     padding-left: 15px;
-    width: 400px;
+    /*width: 400px;*/
+}
+
+.sectionBio {
+    flex: 2;
+}
+
+.sectionContact {
+    flex: 1;
 }
